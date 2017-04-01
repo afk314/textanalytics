@@ -1,0 +1,29 @@
+{
+  "name": "hw.doc",
+  "data": {
+    "info": {
+      "softwareVersion": "0.0.1"
+    }
+  },
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "^2.1.5",
+    "bluebird": "^3.x",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "config": "^1.25.1",
+    "fs": "0.0.1-security",
+    "marklogic": "^1.0.6",
+    "mocha": "^3.2.0",
+    "mongodb": "^2.2.22",
+    "n3": "^0.9.1",
+    "path": "^0.12.7",
+    "recursive-readdir": "^2.1.1",
+    "winston": "2.x",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
